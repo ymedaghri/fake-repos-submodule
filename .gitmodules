@@ -1,12 +1,12 @@
-[submodule "users-api"]
-	path = users-api
-	url = https://github.com/ymedaghri/fake-users-api.git
-[submodule "events-api"]
-	path = events-api
-	url = https://github.com/ymedaghri/fake-events-api.git
 [submodule "guests-api"]
 	path = guests-api
-	url = https://github.com/ymedaghri/fake-guests-api.git
+	url = git@github.com:ymedaghri/fake-guests-api.git
+[submodule "events-api"]
+	path = events-api
+	url = git@github.com:ymedaghri/fake-events-api.git
 [submodule "marketplace-app"]
 	path = marketplace-app
-	url = https://github.com/ymedaghri/fake-marketplace-app.git
+	url = git@github.com:ymedaghri/fake-marketplace-app.git
+[submodule "users-api"]
+	path = users-api
+	url = git@github.com:ymedaghri/fake-users-api.git
